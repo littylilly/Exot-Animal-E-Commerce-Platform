@@ -51,3 +51,15 @@ SELECT ProductName, Price
 FROM Products 
 ORDER BY Price DESC;
 
+## 📑 Documentation  
+- **ER Diagrams** - Entity-Relationship Diagrams for database structure  
+- **Data Dictionary** - Detailed descriptions of tables and attributes  
+- **SQL Queries** - Basic & complex queries for transactions and analytics  
+- **Project Report** - Overview, challenges, and implementation details  
+
+---
+
+## 🎯 Contributors  
+👩‍💻 **Lilly Parham**  
+👩‍💻 **Gracie Rehberg**  
+👩‍💻 **Pamela Alvarado-Zarate** 
