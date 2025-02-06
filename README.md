@@ -54,7 +54,8 @@ ORDER BY Price DESC;
 - **ER Diagrams** - Entity-Relationship Diagrams for database structure  
 - **Data Dictionary** - Detailed descriptions of tables and attributes  
 - **SQL Queries** - Basic & complex queries for transactions and analytics  
-- **Project Report** - Overview, challenges, and implementation details  
+- **Project Report** - Overview, challenges, and implementation details
+- **Presentation Slides** - [Exot Animal E-Commerce Presentation (PDF)]
 
 ---
 
