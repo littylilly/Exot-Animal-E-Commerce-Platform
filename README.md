@@ -12,8 +12,6 @@ The project follows a **story-driven approach**, where a customer named **Bhavin
 ## 🛠️ Tech Stack  
 - **Database**: MySQL  
 - **Query Development**: SQL (CRUD, Complex Queries, Indexing)  
-- **Backend**: (Mention if applicable - Python, Node.js, etc.)  
-- **Frontend**: (Mention if applicable - React, HTML/CSS, etc.)  
 
 ---
 
