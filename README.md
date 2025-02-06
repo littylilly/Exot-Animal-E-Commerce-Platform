@@ -50,6 +50,8 @@ FROM Products
 ORDER BY Price DESC;
 ```
 
+---
+
 ## 📑 Documentation  
 - **ER Diagrams** - Entity-Relationship Diagrams for database structure  
 - **Data Dictionary** - Detailed descriptions of tables and attributes  
