@@ -64,6 +64,9 @@ ORDER BY Price DESC;
 - **Presentation Slides** - [Exot Animal E-Commerce Presentation (PDF)]
 
 ---
+### *📌 Note:*  
+This project is for **academic purposes** and is based on publicly available crime data. The analysis is intended to demonstrate data storytelling, decision-making, and stakeholder communication skills.  
+
 
 ## 🎯 Contributors  
 👩‍💻 **Lilly Parham**  
