@@ -69,6 +69,7 @@ ORDER BY Price DESC;
 👩‍💻 **Lilly Parham**  
 👩‍💻 **Gracie Rehberg**  
 👩‍💻 **Pamela Alvarado-Zarate** 
+
 📚 **Georgia State University - Master of Science in Analytics**  
 
 ---
