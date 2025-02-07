@@ -68,5 +68,4 @@ ORDER BY Price DESC;
 ## 🎯 Contributors  
 👩‍💻 **Lilly Parham**  
 👩‍💻 **Gracie Rehberg** 
-
 👩‍💻 **Pamela Alvarado-Zarate** 
